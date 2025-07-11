@@ -16,7 +16,7 @@ Seja bem vindo ao meu perfil!! ☺
   
 
 
-Desenvolvedor Full Stack com 7 meses de experiência. Trabalho com React, React Native, Angular, Node.js, JavaScript, Tailwind CSS  para criar soluções web e mobile eficientes.
+Desenvolvedor Full Stack com 7 meses de experiência. Trabalho com aplicações web e mobile usando JavaScript, Node.js, React, React Native, Angular e Tailwind CSS.
 
 
 ## Tecnologias
